@@ -12,7 +12,7 @@ Created automated test suite (UI) for regression testing with Playwright for web
 **SCENARIO 2:** User should not be able to access the e-shop inventory without logging in.  
 **SCENARIO 3:** User whose access is denied (locked_out_user) should not be able to log in.  
 **SCENARIO 4:** User should be logged out once Logout button is pressed.    
-**SCENARIO 5:** User should be able to filter the inventory according to the option chosen.  
+**SCENARIO 5:** User should be able to sort the inventory according to the option chosen.  
 **SCENARIO 6:** User should see the correct product details such as image, product name, description and price.  
 **SCENARIO 7:** User should see the added product in their cart.  
 **SCENARIO 8:** User should see the cart icon update accordingly when adding a product to the cart.  
