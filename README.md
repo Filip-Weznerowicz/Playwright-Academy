@@ -1,4 +1,5 @@
-# Project for Sportradar QA Academy 2024
+# Project for Sportradar QA Academy 2024  
+![Regression](https://bkhost.vn/wp-content/uploads/2022/11/regresssion-testing-la-gi-1.jpg)
 ## Created automated test suite (UI) for regression testing with Playwright for website: https://www.saucedemo.com/  
 
 **Test report:** [GitHub Pages](https://filip-weznerowicz.github.io/playwright-academy/)
