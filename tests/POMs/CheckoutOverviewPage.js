@@ -1,6 +1,6 @@
 import { expect } from '@playwright/test'
 
-import { CheckoutCompletePage } from './CheckoutCompletePage'
+import { CheckoutCompletePage } from './CheckoutCompletePage.js'
 
 export class CheckoutOverviewPage {
     page

@@ -1,6 +1,6 @@
 import { expect } from '@playwright/test'
 
-import { InventoryPage } from './InventoryPage'
+import { InventoryPage } from './InventoryPage.js'
 
 export class LoginPage {
     page

@@ -1,8 +1,8 @@
 import { expect } from '@playwright/test'
 
-import { CartPage } from './CartPage'
+import { CartPage } from './CartPage.js'
 
-import { ProductDetailsPage } from './ProductDetailsPage'
+import { ProductDetailsPage } from './ProductDetailsPage.js'
 
 export class InventoryPage {
     page
