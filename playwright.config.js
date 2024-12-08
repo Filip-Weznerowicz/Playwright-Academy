@@ -42,22 +42,22 @@ export default defineConfig({
       },
     },
 
-    {
-      name: 'firefox',
-      use: {
-        trace: "on",
-        ...devices['Desktop Firefox']
-      },
-    },
-
-    {
-      name: 'webkit',
-      use: {
-        trace: "on",
-        ...devices['Desktop Safari']
-      },
-    },
-
+    /* {
+       name: 'firefox',
+       use: {
+         trace: "on",
+         ...devices['Desktop Firefox']
+       },
+     },
+ 
+     {
+       name: 'webkit',
+       use: {
+         trace: "on",
+         ...devices['Desktop Safari']
+       },
+     },
+ */
     /* Test against mobile viewports. */
     // {
     //   name: 'Mobile Chrome',
