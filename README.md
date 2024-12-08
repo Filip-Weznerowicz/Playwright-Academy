@@ -10,7 +10,9 @@
 ●	It is possible for the tests to run in the pipeline (manual trigger and scheduled run).    
 ●	Your test report is easy to access at Github Pages.  
 
-**Deadline:** 9th of December 2024  
+**Deadline:** 9th of December 2024 
+
+**Note:** Test suite will automatically run from Monday through Friday at 11 PM 
 
 **SCENARIO 1:** User should be able to log in with standard user given the correct credentials.  
 **SCENARIO 2:** User should not be able to access the e-shop inventory without logging in.  
